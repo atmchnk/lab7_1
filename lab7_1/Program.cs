@@ -59,7 +59,6 @@ namespace lab7_1
                     Console.WriteLine();
                 }
             }
-
             catch (IOException e)
             {
                 Console.WriteLine("Файл неможливо відкрити. Перевірте його наявність у проекті");
